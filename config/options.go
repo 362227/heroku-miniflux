@@ -65,7 +65,7 @@ const (
 	defaultMaintenanceMode                    = false
 	defaultMaintenanceMessage                 = "Miniflux is currently under maintenance"
 	defaultMetricsCollector                   = false
-	defaultMetricsRefreshInterval             = 60
+	defaultMetricsRefreshInterval             = 10
 	defaultMetricsAllowedNetworks             = "127.0.0.1/8"
 	defaultWatchdog                           = true
 	defaultInvidiousInstance                  = "yewtu.be"
