@@ -57,7 +57,7 @@ const (
 	defaultOAuth2OidcDiscoveryEndpoint        = ""
 	defaultOAuth2Provider                     = ""
 	defaultPocketConsumerKey                  = ""
-	defaultHTTPClientTimeout                  = 20
+	defaultHTTPClientTimeout                  = 120
 	defaultHTTPClientMaxBodySize              = 15
 	defaultHTTPClientProxy                    = ""
 	defaultAuthProxyHeader                    = ""
